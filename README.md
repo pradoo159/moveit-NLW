@@ -3,9 +3,9 @@
 <p align="center">Projeto realizado durante o bootcamp Next Level Week #04</p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#instalacao">Instalação</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#">Objetivo</a> •
+ <a href="#">Instalação</a> • 
+ <a href="#">Tecnologias</a> • 
 </p>
 
 <h1 align="center">
@@ -28,7 +28,7 @@ Uma boa opção é utilizar o [Yarn](https://classic.yarnpkg.com/pt-BR/) para ge
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/pradoo159/moveit-NLW>
+$ git clone https://github.com/pradoo159/moveit-NLW
 
 # Acesse a pasta root do projeto
 $ cd moveit-NLW
