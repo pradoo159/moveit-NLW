@@ -50,10 +50,6 @@ $ yarn dev
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
